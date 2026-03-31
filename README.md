@@ -14,5 +14,5 @@ Sistema de gestão comercial para assistência técnica, desenvolvido como proje
 - `sql/` — scripts do banco de dados
 
 ## Equipe
-- [Nome do integrante 1]
+- Valentina B. Soares
 - [Nome do integrante 2]
