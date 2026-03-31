@@ -1,2 +1,18 @@
-# sgc-techfix
-Sistema de Gestão Comercial - Assistência Técnica
+# SGC TechFix — Sistema de Gestão Comercial
+
+Sistema de gestão comercial para assistência técnica, desenvolvido como projeto acadêmico.
+
+## Tecnologias
+- Java 21 + Spring Boot 3
+- MySQL 8
+- JWT para autenticação
+- Maven
+
+## Estrutura do repositório
+- `backend/` — código-fonte (em construção)
+- `docs/` — documentação e diagramas
+- `sql/` — scripts do banco de dados
+
+## Equipe
+- [Nome do integrante 1]
+- [Nome do integrante 2]
