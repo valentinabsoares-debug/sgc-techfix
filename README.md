@@ -16,3 +16,5 @@ Sistema de gestão comercial para assistência técnica, desenvolvido como proje
 ## Equipe
 - Valentina B. Soares
 - Giovanna Hamú
+- Gabriel Takeuchi
+  
